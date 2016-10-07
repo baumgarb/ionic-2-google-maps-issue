@@ -1,4 +1,4 @@
-# Project Name
+# ionic-2-google-maps-issue
 
 Welcome to this demo!
 
